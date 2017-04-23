@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile /usr/local/ampps/www/blog/admin/.htpasswd
+Require valid-user
